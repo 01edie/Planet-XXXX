@@ -1,0 +1,22 @@
+{
+  "name": "planet-xxxx",
+  "version": "1.0.0",
+  "description": "Exploration of potential habitable planet with Kepler's data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "planet-xxxx"
+  },
+  "keywords": [
+    "csv",
+    "stream"
+  ],
+  "author": "*",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.2"
+  }
+}
